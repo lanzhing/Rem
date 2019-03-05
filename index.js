@@ -10,4 +10,4 @@ client.on('message', message => {
         message.channel.send('Pong');
     }
 });
-client.login('client id');
+client.login('bot token');
